@@ -4,7 +4,7 @@ A lightweight, one-button arcade game built entirely from scratch on a bare-meta
 
 Instead of relying on a development board like an Arduino Uno, this project uses a standalone ATmega32 DIP-40 chip on a breadboard, complete with its own 16MHz clock and power circuitry. It's a great demonstration of bare-metal AVR programming, hardware debouncing, physics loops, and I2C graphics.
 
-![Project Cover Photo](gameImage.jpg)
+![Project Cover Photo](gameImage.jpeg)
 
 ## ✨ Features
 * **Custom Physics Engine:** Gravity and velocity math optimized for an 8-bit microcontroller.
@@ -27,7 +27,7 @@ Instead of relying on a development board like an Arduino Uno, this project uses
 
 ## 🔌 Wiring & Schematic
 
-*(flappy_dot.svg)*
+(flappy_dot.svg)
 `![Wiring Diagram](placeholder_for_diagram.png)`
 
 ### Pinout Mapping
