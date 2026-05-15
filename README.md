@@ -27,8 +27,7 @@ Instead of relying on a development board like an Arduino Uno, this project uses
 
 ## 🔌 Wiring & Schematic
 
-(flappy_dot.svg)
-`![Wiring Diagram](placeholder_for_diagram.png)`
+![Wiring Diagram](flappy_dot.svg)
 
 ### Pinout Mapping
 | Component | ATmega32 Pin | AVR Port | Notes |
